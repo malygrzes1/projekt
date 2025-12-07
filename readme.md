@@ -39,8 +39,6 @@ Klonowanie repozytorium:
 
 Bash
 
-git clone [adres-repo]
-cd indeks-branz-2.0
 Instalacja zależności:
 
 Bash
@@ -65,4 +63,5 @@ streamlit run main.py
 Autorzy: 
 Tomasz Krawczyk
 Michał Bastrzyk
+
 Igor Gibas
